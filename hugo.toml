@@ -1,0 +1,91 @@
+baseURL = "https://minimalifeshop.github.io/"
+languageCode = "ko-kr"
+title = "minimalifeshop 쇼핑 블로그"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+summaryLength = 35
+
+[pagination]
+pagerSize = 12
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+
+[minify]
+disableXML = false
+minifyOutput = true
+
+[sitemap]
+changefreq = "daily"
+priority = 0.7
+filename = "sitemap.xml"
+
+[permalinks]
+posts = "/posts/:slug/"
+
+[params]
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowShareButtons = true
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+TocOpen = false
+env = "production"
+description = "심플하고 실용적인 미니멀 라이프스타일 제품을 소개하는 쇼핑 블로그입니다. 정리수납, 인테리어 소품, 친환경 생활용품 등 미니멀한 삶을 위한 아이템을 매일 업데이트합니다"
+keywords = ["미니멀라이프", "심플인테리어", "정리수납용품", "친환경제품", "생활용품추천"]
+images = ["/images/og-default.webp"]
+
+# Search engine verification (set only when needed)
+googleSiteVerification = ""
+naverSiteVerification = ""
+bingSiteVerification = ""
+yandexSiteVerification = ""
+
+[params.homeInfoParams]
+Title = "덜어내는 삶의 미학, 미니멀라이프샵 큐레이션"
+Content = "복잡한 일상에서 벗어나 심플하고 여유로운 삶을 꿈꾸시나요? 미니멀라이프샵에서는 불필요한 것을 덜어내고 본질에 집중할 수 있도록 돕는 제품들을 엄선하여 소개합니다. 정리수납 아이템부터 심플한 인테리어 소품까지, 미니멀한 라이프스타일을 시작해보세요."
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 2
+keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 5
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 30
