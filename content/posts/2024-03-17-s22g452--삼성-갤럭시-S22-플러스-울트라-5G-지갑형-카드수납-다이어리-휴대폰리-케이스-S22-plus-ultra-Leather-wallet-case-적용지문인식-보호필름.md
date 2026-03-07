@@ -1,11 +1,10 @@
 ---
-title: "s22g452  [10~30대 남성추천]  삼성 갤럭시 S22 플러스 울트라 5G 지갑형 카드수납 다이어리 휴대폰리 케이스 S22 plus ultra Leather  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 's22g452  [10~30대 남성추천]  삼성 갤럭시 S22 플러스 울트라 5G 지갑형 카드수납 다이어리 휴대폰리 케이스 S22 plus ultra Leather  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-17
-slug: "s22g452--삼성-갤럭시-S22-플러스-울트라-5G-지갑형-카드수납-다이어리-휴대폰리-케이스-S22-plus-ultra-Leather-wallet-case-적용지문인식-보호필름"
-author: Moon
+slug: 's22g452--삼성-갤럭시-S22-플러스-울트라-5G-지갑형-카드수납-다이어리-휴대폰리-케이스-S22-plus-ultra-Leather-wallet-case-적용지문인식-보호필름'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, s22g452]
----
 
 
 
