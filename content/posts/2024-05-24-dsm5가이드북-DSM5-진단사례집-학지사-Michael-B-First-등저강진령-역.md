@@ -1,10 +1,10 @@
-﻿---
-title: "dsm-5가이드북  [20~50대] DSM-5 진단사례집, 학지사, Michael B. First 등저/강진령 역 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: 'dsm-5가이드북  [20~50대] DSM-5 진단사례집, 학지사, Michael B. First 등저/강진령 역 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-24
-slug: "dsm5가이드북-DSM5-진단사례집-학지사-Michael-B-First-등저강진령-역"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, dsm-5가이드북]
+slug: 'dsm5가이드북-DSM5-진단사례집-학지사-Michael-B-First-등저강진령-역'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'dsm-5가이드북']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

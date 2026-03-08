@@ -1,10 +1,10 @@
-﻿---
-title: "daboa84nhp  [30~40대 여성추천] 삼성전자 노트북 NT550XED-K24A 한컴오피스 증정(펜티엄 39.6cm Win11Pro RAM (8GB/16GB) SS 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: 'daboa84nhp  [30~40대 여성추천] 삼성전자 노트북 NT550XED-K24A 한컴오피스 증정(펜티엄 39.6cm Win11Pro RAM (8GB/16GB) SS 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-06
-slug: "daboa84nhp-삼성전자-노트북-NT550XEDK24A-한컴오피스-증정펜티엄-396cm-Win11Pro-RAM-8GB16GB-SSD-378628GB-실버DK24AS-펜티엄-378GB-8GB-WIN11-Pro"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, daboa84nhp]
+slug: 'daboa84nhp-삼성전자-노트북-NT550XEDK24A-한컴오피스-증정펜티엄-396cm-Win11Pro-RAM-8GB16GB-SSD-378628GB-실버DK24AS-펜티엄-378GB-8GB-WIN11-Pro'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'daboa84nhp']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

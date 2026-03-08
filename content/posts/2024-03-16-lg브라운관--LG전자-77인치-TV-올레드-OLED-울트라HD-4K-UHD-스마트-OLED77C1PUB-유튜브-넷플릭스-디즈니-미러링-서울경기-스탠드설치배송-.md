@@ -3,8 +3,9 @@ title: 'lg브라운관  [50~60대 남성추천]  LG전자 77인치 TV 올레드 
 date: 2024-03-16
 slug: 'lg브라운관--LG전자-77인치-TV-올레드-OLED-울트라HD-4K-UHD-스마트-OLED77C1PUB-유튜브-넷플릭스-디즈니-미러링-서울경기-스탠드설치배송-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, lg브라운관]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'lg브라운관']
+---
 
 **LG 브라운관: 생생한 시청 경험**
 

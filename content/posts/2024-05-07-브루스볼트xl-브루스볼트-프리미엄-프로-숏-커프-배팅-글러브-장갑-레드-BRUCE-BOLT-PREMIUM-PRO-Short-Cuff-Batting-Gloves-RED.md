@@ -1,10 +1,10 @@
-﻿---
-title: "브루스볼트xl  [40~50대 여성추천] 브루스볼트 프리미엄 프로 숏 커프 배팅 글러브 장갑 레드 BRUCE BOLT PREMIUM PRO Short Cuff Bat 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: '브루스볼트xl  [40~50대 여성추천] 브루스볼트 프리미엄 프로 숏 커프 배팅 글러브 장갑 레드 BRUCE BOLT PREMIUM PRO Short Cuff Bat 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-07
-slug: "브루스볼트xl-브루스볼트-프리미엄-프로-숏-커프-배팅-글러브-장갑-레드-BRUCE-BOLT-PREMIUM-PRO-Short-Cuff-Batting-Gloves-RED"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 브루스볼트xl]
+slug: '브루스볼트xl-브루스볼트-프리미엄-프로-숏-커프-배팅-글러브-장갑-레드-BRUCE-BOLT-PREMIUM-PRO-Short-Cuff-Batting-Gloves-RED'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '브루스볼트xl']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

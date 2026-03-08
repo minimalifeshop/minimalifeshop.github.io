@@ -3,8 +3,9 @@ title: '라이프팟xt  [30~60대 남성추천]  VAULTEK 볼트텍 라이프팟 
 date: 2024-03-17
 slug: '라이프팟xt--VAULTEK-볼트텍-라이프팟-XT-시리즈-생체-방수-멀티-핸드건-안전-모듈식-인테리어-백라이트-키패드-견고한-휴대용-전자'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 라이프팟xt]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '라이프팟xt']
+---
 
 **라이프팟xt: 건강한 요리, 빠르고 편리하게**
 

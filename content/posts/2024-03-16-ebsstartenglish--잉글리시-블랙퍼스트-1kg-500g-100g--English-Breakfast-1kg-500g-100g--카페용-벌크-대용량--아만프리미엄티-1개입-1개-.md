@@ -3,8 +3,9 @@ title: 'ebsstartenglish  [40~50대 여성추천]  잉글리시 블랙퍼스트 1
 date: 2024-03-16
 slug: 'ebsstartenglish--잉글리시-블랙퍼스트-1kg-500g-100g--English-Breakfast-1kg-500g-100g--카페용-벌크-대용량--아만프리미엄티-1개입-1개-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, ebsstartenglish]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'ebsstartenglish']
+---
 
 **ebsstartenglish: 영어 학습의 완벽한 솔루션**
 
